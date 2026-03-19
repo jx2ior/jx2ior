@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Karol 👋
 
-<!--
-**jx2ior/jx2ior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specializing in recreating modern UI/UX patterns using Power Apps Canvas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I specialize in creating interactive, responsive applications using Microsoft Power Platform.  
+Currently, I focus on improving my UI/UX skills by recreating real-world front-end challenges in Power Apps Canvas.
+
+---
+
+## 🧠 What I'm focusing on
+
+- Power Apps Canvas (advanced UI & logic)
+- Power Fx
+- Responsive layouts
+- UX patterns in low-code apps
+- Recreating front-end challenges (Frontend Mentor)
+
+---
+
+## 🛠 Tech Stack
+
+- Power Apps Canvas
+- Power Automate
+- Power Fx
+- SharePoint Online
+- PowerShell
+- SQL Server
+- Visual Basic for Applications
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Character Counter App
+
+<a href="https://github.com/jx2ior/fem-challenge-character-counter">
+  <img src="https://github.com/jx2ior/fem-challenge-character-counter/blob/main/screenshots/desktop-design.png" height="300"/>
+</a>
+
+Power Apps Canvas implementation of a Frontend Mentor challenge focused on text analysis and UI interactions.
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas-blue)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+- 🔗 [View Repository](https://github.com/jx2ior/fem-challenge-character-counter)
+- ✨ Text analysis, charts, themes, responsive UI
+
+---
+
+### 🔹 Mortgage Repayment Calculator App
+
+<a href="https://github.com/jx2ior/fem-challenge-mortgage-repayment-calculator">
+  <img src="https://github.com/jx2ior/fem-challenge-mortgage-repayment-calculator/blob/main/screenshots/desktop-design.png" height="300"/>
+</a>
+
+Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortgage calculations, form validation, and interactive UI behavior.
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas-blue)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+- 🔗 [View Repository](https://github.com/jx2ior/fem-challenge-mortgage-repayment-calculator)
+- ✨ Form validation, calculations, responsive UI
+
+---
+
+## 🖼 UI/UX Practice
+
+I recreate front-end challenges from [Frontend Mentor](https://www.frontendmentor.io/) using Power Apps Canvas to simulate real UI behavior and interactions within a low-code environment.
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/karol-jeziorowski/)
+
+---
+
+## ⚡ Fun fact
+
+Low-code doesn't mean low quality - I build production-style UI using Power Apps Canvas.
