@@ -6,8 +6,7 @@ Specializing in recreating modern UI/UX patterns using Power Apps Canvas.
 
 ## 🚀 About Me
 
-I specialize in creating interactive, responsive applications using Microsoft Power Platform.  
-Currently, I focus on improving my UI/UX skills by recreating real-world front-end challenges in Power Apps Canvas.
+I specialize in creating interactive, responsive applications using Microsoft Power Platform. Currently, I focus on improving my UI/UX skills by recreating real-world front-end challenges in Power Apps Canvas.
 
 ---
 
