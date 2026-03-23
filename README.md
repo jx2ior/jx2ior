@@ -68,6 +68,11 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 
 ---
 
+## 📁 Other Projects
+🔹 [FAQ Accordion](https://github.com/jx2ior/fem-challenge-faq-accordion) - application implementing an FAQ accordion that allows users to expand and collapse answers
+
+---
+
 ## 🖼 UI/UX Practice
 
 I recreate front-end challenges from [Frontend Mentor](https://www.frontendmentor.io/) using Power Apps Canvas to simulate real UI behavior and interactions within a low-code environment.
