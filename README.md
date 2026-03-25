@@ -34,6 +34,21 @@ I specialize in creating interactive, responsive applications using Microsoft Po
 
 ## 📂 Featured Projects
 
+### 🔹 Password Generator App
+
+<a href="https://github.com/jx2ior/fem-challenge-password-generator">
+  <img src="https://github.com/jx2ior/fem-challenge-password-generator/blob/main/screenshots/desktop-design.png" height="300"/>
+</a>
+
+Power Apps Canvas implementation of a Frontend Mentor challenge focused on password generator.
+
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Canvas-blue)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+- 🔗 [View Repository](https://github.com/jx2ior/fem-challenge-password-generator)
+- ✨ Password generation, clipboard copy, strength indicator, responsive UI
+
 ### 🔹 Character Counter App
 
 <a href="https://github.com/jx2ior/fem-challenge-character-counter">
