@@ -84,7 +84,11 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 ---
 
 ## 📁 Other Projects
-🔹 [FAQ Accordion](https://github.com/jx2ior/fem-challenge-faq-accordion) - application implementing an FAQ accordion that allows users to expand and collapse answers
+🔹 [FAQ Accordion](https://github.com/jx2ior/fem-challenge-faq-accordion)  
+  Accessible FAQ component with expandable answers, keyboard navigation, and interactive UI states  
+
+🔹 [Time Tracking Dashboard](https://github.com/jx2ior/fem-challenge-time-tracking-dashboard)  
+  Dashboard with switchable daily, weekly, and monthly statistics and responsive layout  
 
 ---
 
