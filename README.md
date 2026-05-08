@@ -90,6 +90,9 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 🔹 [Time Tracking Dashboard](https://github.com/jx2ior/fem-challenge-time-tracking-dashboard)  
   Dashboard with switchable daily, weekly, and monthly statistics and responsive layout  
 
+🔹 [Interactive Rating Component](https://github.com/jx2ior/fem-interactive-rating-component)  
+  Interactive rating component with selectable feedback, submission state handling, and interactive UI behavior  
+  
 ---
 
 ## 🖼 UI/UX Practice
