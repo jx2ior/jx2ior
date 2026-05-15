@@ -85,14 +85,17 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 
 ## 📁 Other Projects
 🔹 [FAQ Accordion](https://github.com/jx2ior/fem-challenge-faq-accordion)  
-  Accessible FAQ component with expandable answers, keyboard navigation, and interactive UI states  
+  Accessible FAQ component with expandable answers, keyboard navigation, and interactive UI states.
 
 🔹 [Time Tracking Dashboard](https://github.com/jx2ior/fem-challenge-time-tracking-dashboard)  
-  Dashboard with switchable daily, weekly, and monthly statistics and responsive layout  
+  Dashboard with switchable daily, weekly, and monthly statistics and responsive layout.
 
 🔹 [Interactive Rating Component](https://github.com/jx2ior/fem-interactive-rating-component)  
-  Interactive rating component with selectable feedback, submission state handling, and interactive UI behavior  
-  
+  Interactive rating component with selectable feedback, submission state handling, and interactive UI behavior.
+
+🔹 [Product List With Cart](https://github.com/jx2ior/fem-product-list-with-cart)  
+  Shopping cart application with quantity controls, order confirmation, and accessible responsive UI.
+
 ---
 
 ## 🖼 UI/UX Practice
