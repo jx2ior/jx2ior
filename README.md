@@ -96,6 +96,9 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 🔹 [Product List With Cart](https://github.com/jx2ior/fem-product-list-with-cart)  
   Shopping cart application with quantity controls, order confirmation, and accessible responsive UI.
 
+🔹 [Quiz App](https://github.com/jx2ior/fem-quiz-app)  
+  Interactive quiz application with answer validation, score tracking, theme switching, and accessible responsive UI.
+  
 ---
 
 ## 🖼 UI/UX Practice
