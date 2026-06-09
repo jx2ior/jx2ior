@@ -98,6 +98,9 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 
 🔹 [Quiz App](https://github.com/jx2ior/fem-quiz-app)  
   Interactive quiz application with answer validation, score tracking, theme switching, and accessible responsive UI.
+
+🔹 [Browser Extension Manager UI](https://github.com/jx2ior/fem-browser-extension-manager-ui)  
+  Browser extension manager with filtering, state toggling, theme switching, and accessible responsive UI.
   
 ---
 
