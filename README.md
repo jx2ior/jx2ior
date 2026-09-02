@@ -102,6 +102,9 @@ Power Apps Canvas implementation of a Frontend Mentor challenge focused on mortg
 🔹 [Browser Extension Manager UI](https://github.com/jx2ior/fem-browser-extension-manager-ui)  
   Browser extension manager with filtering, state toggling, theme switching, and accessible responsive UI.
   
+🔹 [Recipe Page](https://github.com/jx2ior/fem-recipe-page)  
+  Responsive recipe page focused on semantic HTML principles, clean structure, and Power Apps Canvas UI implementation.
+  
 ---
 
 ## 🖼 UI/UX Practice
